@@ -1,0 +1,1 @@
+Type Mismatch In Statement: Assign(Id(a),BinaryOp(+,BinaryOp(+,IntLiteral(1),CallExpr(Id(main),[IntLiteral(1),IntLiteral(2),StringLiteral(string)])),CallExpr(Id(foo1),[])))

@@ -1,0 +1,10 @@
+
+        Function: main
+            Body:
+            Var: a;
+            If a Then
+            a = 5;
+            EndIf.
+            Return 1;
+            EndBody.
+        

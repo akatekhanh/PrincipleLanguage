@@ -1,0 +1,15 @@
+
+            Var: b[1] = 1;
+            Function: foo
+
+            Body:
+
+            EndBody.
+
+            Function: main
+            Parameter: x, y ,z
+            Body:
+            y = x || (x>z);
+            EndBody.
+
+            

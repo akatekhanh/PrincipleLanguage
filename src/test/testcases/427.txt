@@ -1,0 +1,27 @@
+
+            Var: a;
+            Function: foo
+            Parameter: a,b
+            Body:
+                a = 10.0;
+                b = 10.0;
+                **Var: a = 10;**
+                **x = a  + main() + foo1();**
+                Return 1.0;
+            EndBody.
+
+            Function: foo1
+            Body:
+                Var: a = 10;
+                a = foo(1.0,2.0);
+                Return "string";
+            EndBody
+
+            Function: main
+            Parameter: a,b,c
+            Body:
+
+                Return 1;
+            EndBody.
+
+            

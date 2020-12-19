@@ -1,0 +1,33 @@
+
+
+            Function: foo
+            Parameter: a,b,c
+            Body:
+                a = 2;
+
+                foo1(1,2,"das");
+                main(2,3,1.0);
+                Return;
+            EndBody.
+
+            Function: foo1
+            Parameter: d, c, e
+            Body:
+                d = 10;
+                e = 0;
+                Return;
+            EndBody.
+
+            Function: foo2
+            Body:
+                Return;
+            EndBody.
+
+            Function: main
+            Parameter: a, b, c
+            Body:
+                a = 10.1;
+                Return ;
+            EndBody.
+
+            

@@ -1,0 +1,17 @@
+
+            Var: c = 10;
+            Function: main
+            Body:
+                If 1 != 2 Then
+                    Var: a = 1, b;
+                    b = a;
+                    main();
+                    c = 1;
+                Else
+                    Var: b = 1;
+
+                EndIf.
+                Return 1;
+            EndBody.
+
+            

@@ -1,0 +1,10 @@
+
+            Var: c = 10;
+            Function: main
+            Body:
+                Var: a;
+                c = a + int_of_float(1);
+                Return 1;
+            EndBody.
+
+            

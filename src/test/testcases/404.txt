@@ -1,0 +1,16 @@
+
+            Var: b = 1;
+            Var: c;
+            Var: e;
+            Function: foo
+            Body:
+                Var: b = True;
+                Var: c = 2.0;
+                b = e  == c;
+            EndBody.
+
+            Function: main
+            Body:
+            EndBody.
+
+            

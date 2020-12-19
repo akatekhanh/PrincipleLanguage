@@ -1,0 +1,8 @@
+
+        Function: main
+        Body:
+            Var: a, b;
+            a = 1 + 2;
+            b = a + 3.5;
+        EndBody.
+        

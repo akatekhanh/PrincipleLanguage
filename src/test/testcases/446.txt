@@ -1,0 +1,13 @@
+
+        Function: main
+            Body:
+            Var:a;
+            If 5 == 2 Then Var:a;
+            ElseIf 1==2 Then
+                Var:b;
+                If a Then
+                a = 10;
+                EndIf.
+            EndIf.
+            EndBody.
+        

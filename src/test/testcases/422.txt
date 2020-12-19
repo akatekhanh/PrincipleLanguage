@@ -1,0 +1,26 @@
+
+            Var: a;
+            Function: foo
+            Parameter: a,b,c
+            Body:
+                Var: f = 10;
+                Var: x;
+                a = 1;
+                b = 2;
+                main(1,2,x);
+                Return 1;
+            EndBody.
+
+            Function: foo1
+            Body:
+                Return 1;
+            EndBody.
+
+            Function: main
+            Parameter: a, b, c
+            Body:
+                foo1();
+                Return ;
+            EndBody.
+
+            

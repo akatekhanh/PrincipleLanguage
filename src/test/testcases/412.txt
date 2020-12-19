@@ -1,0 +1,28 @@
+
+
+            Function: foo
+            Parameter: a,b,c
+            Body:
+                main();
+                foo1();
+                foo2();
+
+            EndBody.
+
+            Function: foo1
+            Body:
+                Return 1;
+            EndBody.
+
+            Function: foo2
+            Body:
+
+            EndBody.
+
+            Function: main
+            Parameter: a, b, c
+            Body:
+                Return ;
+            EndBody.
+
+            

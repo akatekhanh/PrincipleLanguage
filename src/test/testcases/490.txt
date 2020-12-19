@@ -1,0 +1,14 @@
+
+        Function: main
+        Body:
+            Var: xy;
+            If True Then
+                Var: x = 3;
+            ElseIf False Then
+                Var: y, z = 3;
+            Else
+                main(xy);
+            EndIf.
+            Return;
+        EndBody.
+                   

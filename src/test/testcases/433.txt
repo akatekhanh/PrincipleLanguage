@@ -1,0 +1,10 @@
+
+            Var: c = 10;
+
+            Function: main
+            Body:
+                printStrLn(1,2);
+                Return 1;
+            EndBody.
+
+            

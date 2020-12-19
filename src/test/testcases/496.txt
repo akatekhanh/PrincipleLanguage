@@ -1,0 +1,7 @@
+
+        Var: x[3] = {1,2,3};
+        Function: main
+            Body:
+            main()[1] = 5;
+            EndBody.
+        

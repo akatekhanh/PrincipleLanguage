@@ -1,0 +1,16 @@
+
+        Var: x;
+        Function: foo
+        Body:
+            Return False;
+        EndBody.
+        Function: main
+            Body:
+            Var: a;
+            If foo() Then
+            a = True;
+            a = foo();
+            a = 10;
+            EndIf.
+            EndBody.
+        

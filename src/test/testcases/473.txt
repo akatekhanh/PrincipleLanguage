@@ -1,0 +1,13 @@
+
+            Var: x = 10;
+            Function: main
+            Body:
+                Var: i;
+                For (i = 0, i < 10, 2) Do
+                    If x > 10 Then
+                        i = 202.2;
+                        x = 1.0;
+                    EndIf.
+                EndFor.
+            EndBody.
+            

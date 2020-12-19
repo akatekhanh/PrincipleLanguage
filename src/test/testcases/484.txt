@@ -1,0 +1,10 @@
+
+            Var: x = 10;
+            Function: main
+            Body:
+                Var: a = 10, b;
+                Do main();
+                While a > b + x EndDo.
+                Return;
+            EndBody.
+            

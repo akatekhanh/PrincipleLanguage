@@ -1,0 +1,9 @@
+Var: a[2][2] = {1,2};
+        Function: foo
+        Body:
+        
+        EndBody.
+        Function: main
+        Body:
+        
+        EndBody.

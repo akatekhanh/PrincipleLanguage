@@ -1,0 +1,21 @@
+
+            Var: a;
+            Var: a,c;
+            Function: foo
+            Parameter: a,b,c
+            Body:
+                Return;
+            EndBody.
+
+            Function: foo
+            Body:
+
+            EndBody.
+
+            Function: main
+            Parameter: a, b, c
+            Body:
+                Return ;
+            EndBody.
+
+            

@@ -1,0 +1,18 @@
+
+            Function : print
+            Parameter : x
+            Body:
+                Return;
+            EndBody.
+            Function: m
+            Body:
+                Var : value = 12345;
+                Return value;
+            EndBody.
+            Function: main
+            Parameter : x, y
+            Body: 
+                print(m1); 
+                Return 0;
+            EndBody.
+            

@@ -1,0 +1,11 @@
+
+            Var: x = 10;
+            Function: main
+            Body:
+                Var: a;
+                If True Then a = 10;
+                ElseIf False Then a = 10.0;
+                EndIf.
+            Return;
+            EndBody.
+            

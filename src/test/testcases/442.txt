@@ -1,0 +1,19 @@
+
+            Var: x;
+            Function: foo
+            Parameter: y
+            Body:
+                Return 1;
+            EndBody.
+
+            Function: main
+            Body:
+                Var:  a = 10;
+                a = 1 + foo(1);
+                a = 1 + foo(x);
+                **foo(x);**
+                x = 0.0;
+                Return 1;
+            EndBody.
+
+            

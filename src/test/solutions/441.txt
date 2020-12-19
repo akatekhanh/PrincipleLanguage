@@ -1,0 +1,1 @@
+Type Cannot Be Inferred: Assign(Id(a),BinaryOp(+,IntLiteral(1),CallExpr(Id(foo),[Id(x)])))
